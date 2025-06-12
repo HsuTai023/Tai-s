@@ -1,4 +1,3 @@
-# Tai-s
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
